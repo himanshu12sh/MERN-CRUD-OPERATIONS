@@ -1,0 +1,11 @@
+.container{
+    border: 2px solid rgb(61, 59, 59);
+    margin-top: 10%;
+    width: 50vw;
+}
+
+.Add{
+  padding-top: 10px;
+  padding-bottom:  10px;
+}
+
